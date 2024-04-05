@@ -1,0 +1,10 @@
+:root {
+    --primary-color: #8FFF4A;
+    --primary-color-selected: #45B600;
+    --sidebar-options-color: #404040;
+}
+
+@font-face {
+    font-family: 'Barlow-Bold';
+    src: url('../../assets/fonts/Barlow-Bold.ttf')
+}

@@ -1,0 +1,5 @@
+.listItem_TextButton span {
+    font-family: Barlow-Bold;
+    font-size: 18px;
+    color: var(--sidebar-options-color);
+}
